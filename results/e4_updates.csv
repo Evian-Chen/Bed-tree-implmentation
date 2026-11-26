@@ -1,0 +1,3 @@
+config,bulk_load_s,insert_us_per_op,delete_us_per_op,pages,query_mismatches
+Bed (L=4),0.165442,2.62346,2.31241,2761,0
+Bed+ (L=4,S=64),0.190076,1.70087,1.55314,12220,0

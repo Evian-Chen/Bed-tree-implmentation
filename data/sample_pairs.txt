@@ -1,0 +1,14 @@
+# s1<TAB>s2<TAB>expected edit distance
+kitten	sitting	3
+flaw	lawn	2
+Jim Gray	Jam Gray	1
+Jim Gray	Jim Grey	1
+sunday	saturday	3
+intention	execution	5
+abc		3
+	abc	3
+same	same	0
+recieve	receive	2
+databse	database	1
+Jon Smyth	John Smith	2
+abcdef	fedcba	6

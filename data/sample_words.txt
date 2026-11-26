@@ -1,0 +1,61 @@
+receive
+recipe
+reciprocal
+believe
+relieve
+achieve
+accept
+except
+excess
+access
+success
+necessary
+neccessary
+separate
+seperate
+definitely
+definately
+occasion
+occurrence
+occurred
+beginning
+beginner
+begging
+committee
+commitment
+comittee
+embarrass
+embarrassed
+environment
+government
+Jim Gray
+Jam Gray
+Jim Grey
+John Smith
+Jon Smith
+Jon Smyth
+Jhon Smith
+John Smyth
+Jonathan Smith
+Johnson
+Jackson
+Michael Stonebraker
+Michael Stonebreaker
+Mike Stone
+M. Stone
+database
+databases
+datastore
+database system
+index
+indices
+indexing
+string
+strings
+spring
+sting
+sitting
+kitten
+mitten
+bitten
+written
